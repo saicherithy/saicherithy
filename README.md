@@ -4,7 +4,6 @@ I'm an undergrad Data Science student who enjoys building things, exploring new 
 
 I'm interested in software development, data analysis, AI, and building practical solutions to real-world problems.
 
-### 💻 Tech Stack
 
 ### 💻 Tech Stack
 
