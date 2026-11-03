@@ -1,6 +1,6 @@
 # Hey, I'm Sai Cherith 👋
 
-I'm a final-year B.Tech student specialising in Data Science, interested in software development, AI, and building practical solutions through code.
+I'm a final-year B.Tech student specialising in Data Science, interested in software development, data analysis, AI, and building practical solutions through code.
 
 
 ### 💻 Tech Stack
