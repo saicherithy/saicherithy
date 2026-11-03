@@ -38,7 +38,7 @@ I'm a final-year B.Tech student specialising in Data Science, interested in soft
 - Artificial Intelligence and Machine Learning
 - Building better software solutions
 
-### 🤝 Let's Connect
+
 
 ### 🤝 Let's Connect
 
