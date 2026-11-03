@@ -1,8 +1,6 @@
 # Hey, I'm Sai Cherith 👋
 
-I'm an undergrad Data Science student who enjoys building things, exploring new technologies, and turning ideas into working projects.
-
-I'm interested in software development, data analysis, AI, and building practical solutions to real-world problems.
+I'm a final-year B.Tech student specialising in Data Science, interested in software development, AI, and building practical solutions through code.
 
 
 ### 💻 Tech Stack
