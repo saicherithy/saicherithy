@@ -49,3 +49,6 @@ I'm interested in software development, data analysis, AI, and building practica
 ---
 
 *Always learning. Always building.*
+
+## 📊 GitHub Stats
+You can explore my repositories and follow my development journey here on GitHub.
