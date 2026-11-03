@@ -40,11 +40,10 @@ I'm a final-year B.Tech student specialising in Data Science, interested in soft
 
 ### 🤝 Let's Connect
 
-- GitHub: [@saicherithy](https://github.com/saicherithy)
+### 🤝 Let's Connect
 
----
+- GitHub: [@saicherithy](https://github.com/saicherithy)
+- LinkedIn: [Sai Cherith Yerra](https://www.linkedin.com/in/saicherithyerra/)
 
 *Always learning. Always building.*
 
-## 📊 GitHub Stats
-You can explore my repositories and follow my development journey here on GitHub.
