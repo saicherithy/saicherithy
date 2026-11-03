@@ -31,7 +31,6 @@ I'm a final-year B.Tech student specialising in Data Science, interested in soft
 ### 🚀 Featured Projects
 
 - **[CityGo](https://github.com/saicherithy/CityGo)** – An intelligent ride-sharing platform featuring ride bookings, interactive maps, and live GPS tracking.
-- **AI Travel Planner** – A budget-based travel planning application that generates personalised itineraries.
 
 ### 🌱 Currently Exploring
 
